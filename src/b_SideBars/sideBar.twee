@@ -1,0 +1,14 @@
+:: StoryDisplayTitle
+Your title here
+
+
+:: StorySubtitle
+by author name
+
+
+:: StoryMenu [noreturn]
+[[Credits]]
+
+
+:: Credits
+Example passage in SugarCube's sidebar, remember to implement noreturn

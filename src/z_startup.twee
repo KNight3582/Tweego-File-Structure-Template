@@ -1,0 +1,8 @@
+/* insert your StoryData here */
+
+:: StoryTitle
+Title here
+
+
+:: StoryInit
+/* insert your variables and whatever else is needed*/

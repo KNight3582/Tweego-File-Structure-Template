@@ -1,2 +1,4 @@
 # Tweego-File-Structure-Template
-Repository for my first genuine attempt at a twine game using Sugarcube 2
+An empty template I use for Tweego coding in VSCode using SugarCube v2.
+
+You need to initialize your :: StoryData in z_startup.twee before doing anything else
